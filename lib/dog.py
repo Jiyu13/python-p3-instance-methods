@@ -11,4 +11,3 @@ fido = Dog()
 
 # access instance's __dir__() method with dot notation
 fido.__dir__()
-print(fido.__dir__())
